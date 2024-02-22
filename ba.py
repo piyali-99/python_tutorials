@@ -1,4 +1,3 @@
-
 # class person:
 #     def __init__(self,piyali) :
 #          print("hy")
